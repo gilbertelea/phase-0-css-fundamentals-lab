@@ -3,3 +3,31 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+.center{
+  resize: both;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+nav a{
+padding-left: 10px;
+padding-right: 10px;
+background-color: grey;
+}
+
+#featured-property p{
+  width: 800px;
+  text-align: center;
+  resize: horizontal;
+  overflow: auto;
+}
+
+#featured-property img{
+src: center;
+}
+
+
